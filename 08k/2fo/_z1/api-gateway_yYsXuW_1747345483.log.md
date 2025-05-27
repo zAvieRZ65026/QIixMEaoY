@@ -185,7 +185,6 @@ _New releases will come much faster once again_
 * Avoid creating __init__.py in a directory next to a module (.py file) with the same name
 * Check recursively if there is any .py{,c} file in a directory before creating __init__.py
 * Fix SNS event tasks
-* Bump lambda-packages
 
 ## 0.42.0
 * Cached manylinux wheel installed
