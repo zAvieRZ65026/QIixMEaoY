@@ -1,6 +1,5 @@
 engines:
     enabled: true
-    config:
       config: /backend/.eslintrc.json
       extensions:
       - .js
